@@ -14,8 +14,9 @@ public class Percobaan1 {
         }
         return faktor;
     }
+
     public static void main(String[] args) {
-        System.out.println(faktorialRekursif(6));
+        System.out.println(faktorialRekursif(5));
         System.out.println(faktorialIteratif(5));
     }
 }
